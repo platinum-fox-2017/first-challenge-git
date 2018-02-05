@@ -7,4 +7,4 @@
 [//]: # (Beri tahu kami, apa yang ingin kamu dapatkan di Hacktiv8 dan apa yang ingin kamu capai setelah lulus dari sini?)
 ## Saya ingin belajar membuat aplikasi yang dapat bermanfaat untuk orang banyak sekaligus menghasilkan uang. Yang ingin saya capai adalah bekerja dahulu di perusahaan yang berbasis teknologi
 
-[//]: # (Apakah ada hal lain yang ingin disampaikan? Bila ada, kamu bebas untuk menuliskannya) 
+[//]: # (Apakah ada hal lain yang ingin disampaikan? Bila ada, kamu bebas untuk menuliskannya)
