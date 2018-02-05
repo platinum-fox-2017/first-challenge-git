@@ -1,5 +1,5 @@
 [//]: # (Ceritakan sedikit tentang latar belakangmu seperti pendidikan terakhir atau pekerjaan sebelumnya)
-## nama saya irsyad pahlapi sebelumnya saya kuliah di jurusan teknik informatika baru lulus november 2017 dan bulan selanjutnya langsung mendaftar ke Hacktiv8
+## nama saya irsyad pahlapi sebelumnya saya kuliah di jurusan teknik informatika baru lulus november 2017 dan bulan selanjutnya langsung mendaftar ke Hacktiv8 
 
 [//]: # (Motivasi apa yang mendorongmu untuk ikut program coding bootcamp di Hacktiv8?)
 ## awal nya saya survey saya melihat materi yang di berikan di hacktiv8 adalah materi yang paling sering digunakan oleh perusahaan" startup dan materi itu belum pernah di ajarkan di perkuliahan saya sendiri.
