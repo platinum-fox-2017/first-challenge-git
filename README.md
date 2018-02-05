@@ -11,4 +11,4 @@ Motivasi saya mengikuti Hacktiv8 adalah agar dapat mengikuti perkembangan teknol
 ## Ekspektasi
 Ekspektasi saya, setelah lulus dari Hacktiv8, saya berharap dapat bekerja di sebuah perusahan/organisasi sebagai Full Stack Developer
 
-[//]: # (Apakah ada hal lain yang ingin disampaikan? Bila ada, kamu bebas untuk menuliskannya)
+[//]: # (Apakah ada hal lain yang ingin disampaikan? Bila ada, kamu bebas untuk menuliskannya) 
